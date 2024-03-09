@@ -8,3 +8,7 @@ Todos los usuarios deben acceder mediante el inicio de sesion para poder obtener
 
 ## Hstorial
 Cada calculo que se realiza es almacenado en la base de datos y se puede consultar cuando uno quiera
+
+---
+
+© Raziel Escamilla - 2024
